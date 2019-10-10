@@ -1,0 +1,20 @@
+#logo {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  a {
+    display: block;
+    img {
+      width: 100%;
+    }
+  }
+}
+.group_gnb {
+  position: absolute;
+  right: 0;
+  li {
+    display: inline-block;
+    margin-left: 10px
+  }
+}

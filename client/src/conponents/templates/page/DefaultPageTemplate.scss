@@ -1,0 +1,15 @@
+.template_type1 {
+  .wrap_header {
+    position: relative;
+    height: 100px;
+    
+  }
+  
+  .wrap_content {
+    min-height: 500px;
+  }
+  
+  .wrap_footer {
+    height: 100px;
+  }
+}
